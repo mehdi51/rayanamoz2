@@ -1,5 +1,5 @@
 <?php
-
+//nmn
 
 	$errors = array();
 	$signup = false;
